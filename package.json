@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/rdesingraj/my-package-test.git"
   },
+  "publishConfig": {
+    "rdesingraj:registry": "https://npm.pkg.github.com"
+  },
   "author": "desing",
   "license": "ISC",
   "bugs": {
