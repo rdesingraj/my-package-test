@@ -1,0 +1,19 @@
+{
+  "name": "my-package-test",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdesingraj/my-package-test.git"
+  },
+  "author": "desing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdesingraj/my-package-test/issues"
+  },
+  "homepage": "https://github.com/rdesingraj/my-package-test#readme"
+}
